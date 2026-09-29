@@ -11,6 +11,8 @@ from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
 from supabase import create_client
 
+
+
 # ==========================================
 # 1. LOAD CONFIG
 # ==========================================

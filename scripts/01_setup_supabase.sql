@@ -28,6 +28,8 @@ CREATE TABLE branches (
   approval_note TEXT
 );
 
+
+
 -- Performance data (SQL sorting: pass_percentage)
 CREATE TABLE performance (
   id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
